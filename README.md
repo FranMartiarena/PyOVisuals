@@ -1,5 +1,5 @@
 # PyOVisuals
-This is a compilation of visual effects. Python and Opencv.
+This is a compilation of visual effects. Python and Opencv.<br><br>
 If you want any effect applied to your image, just run the corresponding .py effect file as follows:
 
 Effect.py image_to_apply output_name -d (optional flag for displaying the process).
