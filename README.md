@@ -12,3 +12,12 @@ Cool TV effect, Inspired by Fauux (wired sound for wired people).
 ![Cool Sample](TV_effect3.gif?raw=true "1")
 <br>
 ![Cool Sample](TV_effect.gif?raw=true "1")
+
+## Glitch Camouflage
+Glitch effect, which is done by swaping the less significant bit of each pixel channel with the most significant bit.
+
+### Some Samples
+
+![Cool Sample](glitch.png?raw=true "1")
+<br>
+![Cool Sample](glitch2.png?raw=true "1")
