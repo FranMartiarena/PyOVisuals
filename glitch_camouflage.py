@@ -1,7 +1,5 @@
 import cv2
 import sys
-import imageio
-
 
 #Shape is rows, columns, channels.
 #Pixel access is the same.
